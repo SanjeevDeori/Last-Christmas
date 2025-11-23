@@ -13,14 +13,14 @@ A festive Python terminal animation featuring a glowing Christmas tree with sync
 - 🌈 **Multi-colored Light Effects** that cycle through rainbow colors
 - ⭐ **Golden Star** on top of the tree
 - 🎨 **Terminal-based Animation** using ANSI colors
-
 ## 🎬 Demo
+
+![Christmas Tree Demo](https://github.com/user-attachments/assets/cd0df356-8d84-4966-9927-2420898cb5cc)
 
 The program creates a beautiful animated Christmas tree in your terminal with:
 - Lights that glow and change colors continuously
 - Lyrics appearing on the right side at equal intervals
 - A festive holiday atmosphere right in your command line!
-
 ## 🚀 Installation
 
 ### Prerequisites
