@@ -140,8 +140,7 @@ This project is licensed under the MIT License - feel free to use it for your ho
 
 ## 📸 Screenshots
 
-*Terminal output shows an animated Christmas tree with colorful lights and synchronized lyrics display*
-
+![Christmas Tree Demo](https://github.com/user-attachments/assets/cd0df356-8d84-4966-9927-2420898cb5cc)
 ---
 
 ### 🎄 Happy Holidays! 🎅
